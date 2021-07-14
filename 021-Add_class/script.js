@@ -1,0 +1,4 @@
+$(function () {
+    $("div").addClass("header");
+});
+
