@@ -1,0 +1,10 @@
+body {
+    padding-top: 8%;
+    width: 70%;
+    margin: auto;
+}
+div{
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+}

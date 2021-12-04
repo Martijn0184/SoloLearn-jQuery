@@ -1,0 +1,7 @@
+$(function () {
+    $("div").empty();
+});
+
+
+
+
