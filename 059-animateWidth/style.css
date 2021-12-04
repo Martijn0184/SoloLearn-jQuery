@@ -1,0 +1,13 @@
+body {
+    padding-top: 8%;
+    width: 70%;
+    margin: auto;
+}
+div {
+    display: inline-block;
+    padding: 25px;
+    background-color:grey;
+    color:white;
+    text-align: center;
+    cursor: pointer;
+}

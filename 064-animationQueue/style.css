@@ -1,0 +1,13 @@
+body {
+    padding-top: 8%;
+    width: 70%;
+    margin: auto;
+}
+div {
+    background:orange;
+    height: 80px;
+    width:80px;
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.5;
+}
