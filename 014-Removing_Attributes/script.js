@@ -1,4 +1,0 @@
-$(function () {
-    $("#text").removeAttr("border");
-});
-
