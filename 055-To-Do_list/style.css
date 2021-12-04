@@ -1,0 +1,15 @@
+body {
+    padding-top: 8%;
+    width: 70%;
+    margin: auto;
+}
+h1 {
+    color: #1abc9c;
+}
+.rem {
+    margin-left: 5px;
+    background-color: white;
+    color: red;
+    border: none;
+    cursor: pointer;
+}
