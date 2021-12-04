@@ -1,3 +1,0 @@
-$(function () {
-    $("div p").hide();
-});
